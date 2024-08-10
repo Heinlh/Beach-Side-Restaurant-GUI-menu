@@ -1,8 +1,3 @@
-#Section: itn160-201
-#By Hein Linn Htet
-#Programming 1 Final Project!
-
-
 
 
 import tkinter as tk
